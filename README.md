@@ -80,13 +80,14 @@ Energy:   Red Bull → ship faster 🚀
 - Type-safe design tokens pipeline (TS + Style Dictionary + CSS Vars)
 - Resilient offline-first edge caching patterns
 
+---
+
+<br>
 <div align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=dougvil&theme=tokyonight&hide_border=true" />
   <br/>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=dougvil&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougvil&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=dougvil&theme=onedark&no-frame=true&margin-w=8&row=1" />
 </div>
 
 ## 🤝 Open Source & Collaboration
