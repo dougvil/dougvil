@@ -59,11 +59,6 @@ Energy:   Red Bull → ship faster 🚀
 
 I like contributing to tooling & accessibility improvements. If you have a performance / a11y heavy UI challenge, reach out.
 
-## 📫 Contact
-
-- LinkedIn: [dougvil](https://www.linkedin.com/in/dougvil)
-- Email: dougvil@msn.com
-
 ---
 
 <div align="center">
