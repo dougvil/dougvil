@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/Code%20Quality-First-1abc9c?style=flat-square" />
 <img src="https://img.shields.io/badge/Performance-%3C1s%20TTI-f39c12?style=flat-square" />
 <img src="https://img.shields.io/badge/Accessibility-WCAG%202.1%20AA-2ecc71?style=flat-square" />
-<img src="https://img.shields.io/badge/Design%20Systems-Scalable-9b59b6?style=flat-square" />
 
 <br/>
 
