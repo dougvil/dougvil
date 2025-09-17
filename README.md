@@ -20,22 +20,11 @@ I build fast, accessible, resilient web apps. Expert in React, TypeScript, perfo
 <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=ffd92c" />
-<img src="https://img.shields.io/badge/Redux%20Toolkit-593d88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/RTK%20Query-593d88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logo=accessibility&logoColor=white" />
-<img src="https://img.shields.io/badge/Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Testing-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-233056?style=for-the-badge&logo=node.js&logoColor=5fa04e" />
 </p>
 
 </div>
 
 ---
-
-## ⚡ Snapshot
 
 ```bash
 Developer: Douglas (dougvil)
@@ -53,32 +42,9 @@ Energy:   Red Bull → ship faster 🚀
 - State & Data: Redux Toolkit, RTK Query, React Query, Context isolation patterns
 - Performance: Lighthouse / Web Vitals budgeting, bundle & route-level splitting
 - Accessibility: semantic structure, focus management, ARIA authoring, audits
-- Design Systems: tokens → primitives → composables → docs (Storybook / MDX)
+- Design Systems: tokens → primitives → composables → docs (Storybook)
 - Testing: Jest + RTL, Cypress (a11y & perf smoke), contract testing
-- Tooling & DX: custom ESLint rules, code mods, prebuild validation, CI gates
-
-## 🧩 Engineering Principles
-
-1. Accessibility is not a feature toggle
-2. Performance is a product requirement
-3. Strong typing reduces meetings
-4. Design systems are living systems, not static libraries
-5. Automate the boring; leave humans for product thinking
-
-## 🚀 Performance & A11y Toolkit
-
-- Core Web Vitals guardrails (custom CI thresholds)
-- Bundle analysis (Source-map-explorer / Webpack / Rollup / Vite plugins)
-- Dynamic import strategies & critical CSS extraction
-- Progressive enhancement + graceful feature degradation
-- a11y lint + Storybook a11y + manual keyboard / SR sweeps
-
-## 🔍 Currently Exploring
-
-- React Server Components adoption paths
-- Partial hydration strategies & Islands
-- Type-safe design tokens pipeline (TS + Style Dictionary + CSS Vars)
-- Resilient offline-first edge caching patterns
+- Tooling & DX: Boilerplates, custom ESLint rules, code mods, prebuild validation
 
 ---
 
