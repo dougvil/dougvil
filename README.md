@@ -1,10 +1,4 @@
 <div align="center">
-
-# 👋 Hi, I'm Douglas
-
-<strong>Senior Front-End Engineer (10+ yrs)</strong><br/>
-I build fast, accessible, resilient web apps. Expert in React, TypeScript, performance, a11y, design systems, state & data (Redux + RTK Query), testing, and DX. I architect scalable UI, mentor engineers, and turn complex product ideas into elegant experiences.
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dougvil&style=flat-square&color=0e8fdd)
@@ -15,6 +9,11 @@ I build fast, accessible, resilient web apps. Expert in React, TypeScript, perfo
 <img src="https://img.shields.io/badge/Design%20Systems-Scalable-9b59b6?style=flat-square" />
 
 <br/>
+
+<strong>Senior Front-End Engineer (10+ yrs)</strong><br/>
+I build fast, accessible, resilient web apps. Expert in React, TypeScript, performance, a11y, design systems, state & data (Redux + RTK Query), testing, and DX. I architect scalable UI, mentor engineers, and turn complex product ideas into elegant experiences.
+
+
 
 <p>
 <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
@@ -27,7 +26,7 @@ I build fast, accessible, resilient web apps. Expert in React, TypeScript, perfo
 ---
 
 ```bash
-Developer: Douglas (dougvil)
+Developer: Douglas Viliano (dougvil)
 Role:     Senior Front-End Engineer
 Focus:    Performance, Accessibility, DX, Design Systems
 Superpower: Turning abstract product vision into scalable UX
